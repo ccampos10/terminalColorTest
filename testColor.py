@@ -1,4 +1,5 @@
 #!/bin/python3
+# more info https://en.wikipedia.org/wiki/ANSI_escape_code
 title = "  |   255-code   |    ansi-16   |   255-code   |    ansi-16   |"
 
 print("Normal:")
